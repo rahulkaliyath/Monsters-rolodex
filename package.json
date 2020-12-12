@@ -1,8 +1,8 @@
 {
-  "name": "lesson-1",
+  "name": "human-rolodex",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://rahulkaliyath.github.io/Monsters-rolodex",
+  "homepage": "https://rahulkaliyath.github.io/human-rolodex",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.6",
     "@testing-library/react": "^11.2.2",
